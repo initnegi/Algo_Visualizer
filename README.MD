@@ -5,6 +5,10 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 **Live-** [sorting visualizer](https://initnegi.github.io/Algo_Visualizer/
 ) 
 
+<p align="center">
+  <img src="https://github.com/initnegi/Algo_Visualizer/blob/main/images/desktop-sort-visualizer.jpg" alt="Image" width="600" height="auto">
+</p>
+
 **Code-** [sort visualizer code](https://github.com/initnegi/Algo_Visualizer)
 
 ## Purpose
