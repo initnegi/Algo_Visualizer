@@ -6,7 +6,7 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 ) 
 
 <p align="center">
-  <img src="https://github.com/initnegi/Algo_Visualizer/blob/main/images/desktop-sort-visualizer.jpg" alt="Image" width="600" height="auto">
+  <img src="https://github.com/initnegi/Algo_Visualizer/blob/main/images/desktop-sort-visualizer.png" alt="Image" width="600" height="auto">
 </p>
 
 **Code-** [sort visualizer code](https://github.com/initnegi/Algo_Visualizer)
